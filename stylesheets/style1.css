@@ -1,0 +1,8 @@
+/* Styles go here */
+
+body{background-color:yellow;}
+h1 {color:purple;}
+h3 {color:orange;}
+p {color:green;}
+section {background-color:white;}
+section section {background-color:red;}
