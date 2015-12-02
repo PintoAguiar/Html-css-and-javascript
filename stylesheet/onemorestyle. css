@@ -1,0 +1,63 @@
+/* Styles go here */
+
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: purple;
+}
+
+h3 {
+  color: orange;
+}
+
+p {
+  color: green;
+}
+
+section {
+  background-color: white;
+}
+
+section section {
+  background-color: gray;
+ }
+
+#module {
+  background: gray;
+}
+
+
+#rainbowColors {
+  background: white;
+}
+
+#red {
+  color: red;
+  background: white;
+}
+
+#orange {
+  color: orange
+}
+
+#yellow {
+  color: yellow
+}
+
+#green {
+  color: green
+}
+
+#blue {
+  color: blue
+}
+
+#white {
+  color: white
+}
+
+#purple {
+  color: purple
+}
